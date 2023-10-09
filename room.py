@@ -47,4 +47,4 @@ class Room:
             result += exit + " "
         result += "\n"
 
-        return result
+        return result 
